@@ -1,2 +1,1 @@
-# ex-array
 # ex-cards
